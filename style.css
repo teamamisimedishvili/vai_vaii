@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e6e6e6;
+}
+
+.container {
+  background-color: #e6e6e6;
+  height: 100%;
+}
+
+h1 {
+  font-size: 52px;
+  font-weight: 700;
+}
+
+.me-3 {
+  padding: 20px;
+  border-radius: 20px;
+}
+
+ul li {
+  padding: 15px;
+  border: none;
+  border-top: 2px solid rgb(221, 216, 216);
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.spanstyle {
+  border-radius: 10px;
+  padding: 4px;
+  width: 69%;
+  margin-right: 5px;
+
+
+}
